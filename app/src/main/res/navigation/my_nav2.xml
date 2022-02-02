@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav2"
+    app:startDestination="@id/matchFragment2">
+
+
+    <fragment
+        android:id="@+id/matchFragment2"
+        android:name="com.example.footballesat.onboarding.secran.matchFragment"
+        android:label="fragment_match2"
+        tools:layout="@layout/fragment_match2" >
+        <action
+            android:id="@+id/action_matchFragment2_to_playerFragment"
+            app:destination="@id/playerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/playerFragment"
+        android:name="com.example.footballesat.onboarding.secran.playerFragment"
+        android:label="fragment_player"
+        tools:layout="@layout/fragment_player" >
+        <action
+            android:id="@+id/action_playerFragment_to_matchFragment2"
+            app:destination="@id/matchFragment2" />
+        <argument
+            android:name="id"
+            app:argType="integer" />
+        <argument
+            android:name="teamname"
+            app:argType="string" />
+        <argument
+            android:name="id_sesean"
+            app:argType="integer" />
+        <argument
+            android:name="shirt"
+            app:argType="integer" />
+        <argument
+            android:name="leag_name"
+            app:argType="string" />
+    </fragment>
+</navigation>

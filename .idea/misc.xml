@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/drawable-v24/ic_baseline_menu_24.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/drawable/ic_baseline_slow_motion_video_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/activity_creat_account.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/activity_favorite.xml" value="0.22" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/activity_home_pag.xml" value="0.18" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/activity_main_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/activity_match_day.xml" value="0.25" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/activity_table.xml" value="0.25" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/activity_team_info.xml" value="0.33" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/activity_top_scorer.xml" value="0.25" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/card_fragment_favorite.xml" value="0.33" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/card_match_day.xml" value="0.16" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/card_seeting_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/fragment_favorite_.xml" value="0.22" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/fragment_first_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/fragment_home_page_.xml" value="0.18931159420289856" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/fragment_match.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/fragment_match2.xml" value="0.1" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/fragment_player.xml" value="0.22" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/fragment_secand_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/fragment_setting_.xml" value="0.22" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/fragment_splash.xml" value="0.1" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/fragment_therd_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/fragment_view_pagerfragment.xml" value="0.1" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/match.xml" value="0.33" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/match_day_card.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/myrow.xml" value="0.22" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/scorer_card.xml" value="0.14945652173913043" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/scroll_card.xml" value="0.33" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/switch_item.xml" value="0.1" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/layout/table_row.xml" value="0.5" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/menu/navigation_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+        <entry key="..\:/Users/Wasim/AndroidStudioProjects/Footballesat/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

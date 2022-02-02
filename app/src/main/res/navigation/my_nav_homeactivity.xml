@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav_homeactivity"
+    app:startDestination="@id/homePage_Fragment">
+
+    <fragment
+        android:id="@+id/homePage_Fragment"
+        android:name="com.example.footballesat.HomePage_Fragmant.HomePage_Fragment"
+        android:label="fragment_home_page_"
+        tools:layout="@layout/fragment_home_page_" >
+        <action
+            android:id="@+id/action_homePage_Fragment_to_setting_Fragment"
+            app:destination="@id/setting_Fragment" />
+        <action
+            android:id="@+id/action_homePage_Fragment_to_favorite_Fragment"
+            app:destination="@id/favorite_Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/setting_Fragment"
+        android:name="com.example.footballesat.HomePage_Fragmant.setting_Fragment"
+        android:label="fragment_setting_"
+        tools:layout="@layout/fragment_setting_" >
+        <action
+            android:id="@+id/action_setting_Fragment_to_homePage_Fragment"
+            app:destination="@id/homePage_Fragment" />
+        <action
+            android:id="@+id/action_setting_Fragment_to_favorite_Fragment"
+            app:destination="@id/favorite_Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/favorite_Fragment"
+        android:name="com.example.footballesat.HomePage_Fragmant.favorite_Fragment"
+        android:label="fragment_favorite_"
+        tools:layout="@layout/fragment_favorite_" >
+        <action
+            android:id="@+id/action_favorite_Fragment_to_setting_Fragment"
+            app:destination="@id/setting_Fragment" />
+        <action
+            android:id="@+id/action_favorite_Fragment_to_homePage_Fragment"
+            app:destination="@id/homePage_Fragment" />
+    </fragment>
+</navigation>

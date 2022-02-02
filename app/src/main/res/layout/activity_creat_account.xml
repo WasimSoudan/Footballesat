@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CreatAccount">
+
+    <FrameLayout
+        android:id="@+id/frameLayout2"
+        android:layout_width="408dp"
+        android:layout_height="107dp"
+        android:background="@color/plue"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="25dp"
+            android:text="@string/creatAccount"
+            android:textAlignment="center"
+            android:textSize="34sp" />
+
+        <ImageButton
+            android:id="@+id/imag_back"
+            android:layout_width="105dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/plue"
+            app:srcCompat="?attr/actionModeCloseDrawable"
+            tools:ignore="SpeakableTextPresentCheck" />
+    </FrameLayout>
+
+    <EditText
+        android:id="@+id/inputname"
+        android:layout_width="283dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="24dp"
+        android:background="@color/gray"
+        android:backgroundTint="@color/gray"
+        android:ems="10"
+        android:hint="@string/name"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/frameLayout2" />
+
+    <EditText
+        android:id="@+id/inputemail2"
+        android:layout_width="283dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="24dp"
+        android:background="@color/gray"
+        android:ems="10"
+        android:hint="@string/hintemail"
+        android:inputType="textEmailAddress"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/inputname"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <EditText
+        android:id="@+id/inputPassword2"
+        android:layout_width="283dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="24dp"
+        android:background="@color/gray"
+        android:ems="10"
+        android:hint="@string/password"
+        android:inputType="textPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/inputemail2"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <EditText
+        android:id="@+id/input_rePassword"
+        android:layout_width="283dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="24dp"
+        android:background="@color/gray"
+        android:ems="10"
+        android:hint="@string/password"
+        android:inputType="textPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/inputPassword2"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <Button
+        android:id="@+id/btn_Creat_Account"
+        android:layout_width="230dp"
+        android:layout_height="61dp"
+        android:layout_marginTop="32dp"
+        android:backgroundTint="@color/plue"
+        android:text="@string/log_in"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/input_rePassword" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

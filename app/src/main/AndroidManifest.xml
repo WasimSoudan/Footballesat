@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.footballesat">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ball"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Footballesat">
+        <activity
+            android:name=".MainSplash"
+            android:exported="true" >
+            <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter></activity>
+        <activity
+            android:name=".MatchDay"
+            android:exported="false" />
+        <activity
+            android:name=".TopScorer"
+            android:exported="false" />
+        <activity
+            android:name=".TeamInfo"
+            android:exported="false" />
+        <activity
+            android:name=".Table"
+            android:exported="false" />
+        <activity
+            android:name=".HomePag"
+            android:exported="false" />
+        <activity
+            android:name=".favorite"
+            android:exported="false" />
+        <activity
+            android:name=".CreatAccount"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+
+        </activity>
+    </application>
+
+</manifest>

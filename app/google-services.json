@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "502952219944",
+    "project_id": "footballesatapp",
+    "storage_bucket": "footballesatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502952219944:android:7464e01c7d482fc5d9ec1d",
+        "android_client_info": {
+          "package_name": "com.example.footballesat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502952219944-knc4bmc7mt4heh901f7vida1qdd7c7eq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.footballesat",
+            "certificate_hash": "b30a01e6645801e40b06cf91efa5e87e4609f810"
+          }
+        },
+        {
+          "client_id": "502952219944-g90hc2cq3g7i0hsfv0ji9j7lnosev9ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-tEUQ_In4I-rSA87rSq9F1yh2NWDn01M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502952219944-g90hc2cq3g7i0hsfv0ji9j7lnosev9ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502952219944:android:e67117064c4a32f8d9ec1d",
+        "android_client_info": {
+          "package_name": "com.example.footballesatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502952219944-g90hc2cq3g7i0hsfv0ji9j7lnosev9ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-tEUQ_In4I-rSA87rSq9F1yh2NWDn01M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502952219944-g90hc2cq3g7i0hsfv0ji9j7lnosev9ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

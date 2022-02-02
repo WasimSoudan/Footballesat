@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Footballesat</string>
+    <string name="creatAccount">Create Account</string>
+    <string name="forgetPassword">forgot password</string>
+    <string name="hintemail">WasimSodan@gmail.com</string>
+    <string name="password">**************</string>
+    <string name="buttons">Buttons</string>
+    <string name="name">Full Name</string>
+    <string name="connect">OR Connect with Googel</string>
+    <string name="log_in">login</string>
+    <string name="logout">LogOut</string>
+    <string name="Football">FOOTBALLESTA</string>
+    <string name="My_id" translatable="false">502952219944-g90hc2cq3g7i0hsfv0ji9j7lnosev9ie.apps.googleusercontent.com</string>
+    <string name="next">Next</string>
+    <string name="league">league</string>
+    <string-array name="leag">
+        <item>Premier League</item>
+        <item>LaLiga</item>
+        <item>Serie A</item>
+        <item>Ligue 1</item>
+        <item>Bundesliga</item>
+    </string-array>
+    <string name="news">News</string>
+    <string name="Matches">Matches</string>
+    <string name="leagues">Leaguse</string>
+    <string name="setting">Setting</string>
+    <string name="top_scorer">Top Scorer</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="away_team">Away Team</string>
+    <string name="home_team">Home Team</string>
+    <string name="round">Round</string>
+    <string name="capacity">Capacity</string>
+    <string name="staduam_name">Staduam name</string>
+    <string name="comment">###</string>
+    <string name="leag_name">leag name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="novifiation">Novifiation</string>
+    <string name="favorites">Favorites</string>
+    <string name="language">Language</string>
+    <string name="support">Support</string>
+    <string name="notification">Notification</string>
+    <string name="home">Home</string>
+    <string name="next1">Next</string>
+    <string-array name="settingselment">
+        <item>Notification</item>
+        <item>Autoplay</item>
+        <item>Theme</item>
+        <item>Share Footballest</item>
+        <item>Follow us</item>
+        <item>Support</item>
+    </string-array>
+    <string-array name="settingdetal">
+        <item>Manage all action team and leag</item>
+        <item>uset only in Wi-Fi</item>
+        <item>chang to dark mode</item>
+        <item> </item>
+        <item> </item>
+        <item>Support@foot.lest.com</item>
+    </string-array>
+
+</resources>
